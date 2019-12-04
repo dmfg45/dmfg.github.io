@@ -6,6 +6,9 @@ Code Based in HTML/CSS/JavaScript, jQuery, Bootstrap, for the frontend of the we
 
 Web ecommerce Store, which the main objective was to provide the users to choose the type of products they want to buy and also giving the choice of selling two kinds of products for hte owners, physical products and/or downlodable content.
 
+### Project Database file 
+#### => motostashDatabase.sql
+
 
 ## Technologies Used:
 
