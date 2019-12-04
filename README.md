@@ -11,7 +11,7 @@ Web ecommerce Store, which the main objective was to provide the users to choose
 
 
 ## Code 
-### Connection To the Datbase
+### Connection To the Database
 
 ```
 $db["host"] = "localhost";
